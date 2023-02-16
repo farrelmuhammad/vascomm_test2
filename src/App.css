@@ -36,3 +36,71 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+      .content-3-7 .card-outline {
+        border: 1px solid #E5EBF9;
+      }
+
+      .content-3-7 .card {
+        transition: 0.4s;
+        top: 0px;
+
+        left: 0px;
+        position: relative;
+      }
+
+      .content-3-7 .card:hover {
+        top: -3px;
+        left: -3px;
+        position: relative;
+        transition: 0.4s;
+      }
+
+      .content-3-7 .btn-outline {
+        border: 1px solid #2EC49C;
+        color: #2EC49C;
+      }
+
+      .content-3-7 .btn-outline:hover {
+        background-color: #2EC49C;
+        color: #FFFFFF;
+      }
+
+      .content-3-7 .btn-fill {
+        background-image: linear-gradient(rgba(91, 203, 173, 1), rgba(39, 194, 153, 1));
+      }
+
+      .content-3-7 .btn-fill:hover {
+        background-image: linear-gradient(#29B18D, #29B18D);
+      }
+
+      .content-3-7 .price-list-3-7 .no-check-3-7 {
+        color: #E1E1E1;
+      }
+
+      .content-3-7 .price-list-3-7 .check-3-7,
+      .content-3-7 .text-medium-black {
+        color: #2E3A53;
+      }
+
+      .content-3-7 .bg-medium-black {
+        background-color: #2E3A53;
+      }
+
+      .content-3-7 .text-medium-white {
+        color: #C3C3C8;
+      }
+
+      .content-3-7 .caption {
+        color: #8E8FAD;
+      }
+
+      .content-3-7 .price-title {
+        color: #141C2E;
+      }
+
+      .content-3-7 .price-month {
+        color: #9E9E9E;
+      }
